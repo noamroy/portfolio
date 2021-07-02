@@ -34,7 +34,8 @@
                     <div class="line"></div>
                     <h5>phone: +972 52-1234321</h5>
                     <h5>mail: gregory@mail.com</h5>
-                    <h5>git: https://github.com/noamroy</h5>
+                    <a href="https://github.com/noamroy" target="_blank"><h5>git: https://github.com/noamroy</h5></a>
+                    <a href="" target="_blank"><h5>Link to PDF file</h5></a>
                     <h2>MOTO</h2>
                     <div class="line"></div>
                     <text>"Give man a fish and you feed him for a day. Teach a man to fish and you feed him for a lifetime"</text>  
